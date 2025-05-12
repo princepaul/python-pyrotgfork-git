@@ -1,0 +1,5 @@
+*.tar.*
+.git/
+pkg/
+src/
+python-pyrotgfork/
